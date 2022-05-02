@@ -11,3 +11,8 @@ The input will be product and Query pair along with product features like produc
 * Substitute: somewhat suitable product from the Query.
 * Complement: the product will be mapped with other products to match the Query.
 * Irrelevant: Product that is not relevant to the Query.
+
+## Instructions to execute task 2 code:
+1. open the notebook in Google Colab with the link available on top of the file "Increment_2_Task_2_Muticlass_Product_Classification.IPYNB".
+2. Connect to GPU (required high Gpu ==> colab pro)
+3. Execute the notebook(datasets are pre-loaded within the notebooks)
