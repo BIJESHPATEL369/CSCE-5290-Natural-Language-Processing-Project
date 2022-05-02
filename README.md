@@ -13,6 +13,6 @@ The input will be product and Query pair along with product features like produc
 * Irrelevant: Product that is not relevant to the Query.
 
 ## Instructions to execute task 2 code:
-1. open the notebook in Google Colab with the link available on top of the file "Increment_2_Task_2_Muticlass_Product_Classification.IPYNB".
+1. open the notebook in Google Colab with the link available on top of the file "Increment_2_Task_2_Muticlass_Product_Classification_Final.ipynb".
 2. Connect to GPU (required high Gpu ==> colab pro)
 3. Execute the notebook(datasets are pre-loaded within the notebooks)
